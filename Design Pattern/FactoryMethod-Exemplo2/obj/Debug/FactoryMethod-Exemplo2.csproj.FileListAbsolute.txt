@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\bin\Debug\FactoryMethod-Exemplo2.exe.config
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\bin\Debug\FactoryMethod-Exemplo2.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\bin\Debug\FactoryMethod-Exemplo2.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\obj\Debug\FactoryMethod-Exemplo2.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\obj\Debug\FactoryMethod-Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\obj\Debug\FactoryMethod-Exemplo2.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\FactoryMethod-Exemplo2\obj\Debug\FactoryMethod-Exemplo2.pdb

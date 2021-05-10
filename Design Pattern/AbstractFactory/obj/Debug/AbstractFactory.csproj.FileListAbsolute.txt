@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\AbstractFactory\obj\Debug\AbstractFactory.pdb

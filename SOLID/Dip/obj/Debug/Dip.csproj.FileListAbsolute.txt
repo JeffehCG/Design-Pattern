@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\bin\Debug\Dip.exe.config
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\bin\Debug\Dip.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\bin\Debug\Dip.pdb
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\obj\Debug\Dip.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\obj\Debug\Dip.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Dip\obj\Debug\Dip.pdb

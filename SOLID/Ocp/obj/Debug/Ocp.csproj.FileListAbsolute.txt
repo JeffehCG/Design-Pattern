@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\bin\Debug\Ocp.exe.config
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\bin\Debug\Ocp.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\bin\Debug\Ocp.pdb
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\obj\Debug\Ocp.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\obj\Debug\Ocp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\obj\Debug\Ocp.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Ocp\obj\Debug\Ocp.pdb

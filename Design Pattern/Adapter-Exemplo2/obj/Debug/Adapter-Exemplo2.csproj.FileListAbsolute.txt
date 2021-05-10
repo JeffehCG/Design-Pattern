@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\bin\Debug\Adapter-Exemplo2.exe.config
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\bin\Debug\Adapter-Exemplo2.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\bin\Debug\Adapter-Exemplo2.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\obj\Debug\Adapter-Exemplo2.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\obj\Debug\Adapter-Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\obj\Debug\Adapter-Exemplo2.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Adapter-Exemplo2\obj\Debug\Adapter-Exemplo2.pdb

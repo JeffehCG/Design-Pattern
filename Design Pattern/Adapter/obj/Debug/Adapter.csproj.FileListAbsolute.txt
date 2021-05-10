@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\bin\Debug\Adapter.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\obj\Debug\Adapter.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\Adapter\obj\Debug\Adapter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\bin\Debug\Lsp.exe.config
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\bin\Debug\Lsp.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\bin\Debug\Lsp.pdb
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\obj\Debug\Lsp.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\obj\Debug\Lsp.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Lsp\obj\Debug\Lsp.pdb

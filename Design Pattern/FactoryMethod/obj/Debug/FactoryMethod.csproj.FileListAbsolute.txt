@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Bruno Kenji Tomine\Documents\GitHub\Design Pattern\Criacional\DesingnPettern\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\bin\Debug\Isp.exe.config
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\bin\Debug\Isp.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\bin\Debug\Isp.pdb
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\obj\Debug\Isp.csprojAssemblyReference.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\obj\Debug\Isp.exe
+C:\Users\Bruno Kenji Tomine\source\repos\SOLID\Solid\Isp\obj\Debug\Isp.pdb
